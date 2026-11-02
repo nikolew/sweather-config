@@ -1,1 +1,1 @@
-wss://nkoweb.eu
+ws://nkoweb.eu

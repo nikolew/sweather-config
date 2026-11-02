@@ -1,1 +1,1 @@
-ws://nkoweb.eu
+wss://signal.nkoweb.eu

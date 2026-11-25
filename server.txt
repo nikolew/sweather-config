@@ -1,3 +1,3 @@
 wss://nkoweb.eu
-fcm:1:sweather-10948,1:526657612203:android:201ea1cbefaf6d91800aee,123456789,AIzaSyDCnnM1fjkNzKDdN0nHAguZJ3K_oKQQIxc,526657612203
+fcm:sweather-10948,1:526657612203:android:201ea1cbefaf6d91800aee,AIzaSyDCnnM1fjkNzKDdN0nHAguZJ3K_oKQQIxc,526657612203
 
